@@ -21,7 +21,7 @@ export default async function Home({
   return (
     <>
       <section className="pink_container">
-        <h1 className="heading">Add you animation template</h1>
+        <h1 className="heading">Add you automation template</h1>
         <p className="sub-heading !max-w-3xl">
           submit ideas, vote on piteches and get noticed in virtual
           compatitlies.
